@@ -13,7 +13,7 @@ This project is a Supply Chain Management System API built with Node.js, Express
 ### Installation
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/supply-chain-management.git
+   git clone https://github.com/Bhargav450/Supply-Chain-Management-System.git
 2. npm install
 3. Create a .env file in the root directory with the following content:
    MYSQL_DATABASE=your_database_name
