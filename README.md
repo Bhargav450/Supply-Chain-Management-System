@@ -20,5 +20,5 @@ This project is a Supply Chain Management System API built with Node.js, Express
    MYSQL_USER=your_mysql_username
    MYSQL_PASSWORD=your_mysql_password
    MYSQL_HOST=your_mysql_host
-4. To run the project: npm start run
-5. To run the testcase: npm start test
+4. To run the project: npm run start
+5. To run the testcase: npm run test
